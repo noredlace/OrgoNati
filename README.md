@@ -8,12 +8,12 @@ Nonstandard keycaps include the 2.25u Novelty on the left side. This keycap is m
 
 The left shift key was chosen to be a 2.75u with the right shift being a split shift 1.75u + 1u key.
 
-![alt text](https://raw.githubusercontent.com/noredlace/FiftyOrtho1800/master/kle/fifty1800%20kle.png)
+![alt text](https://raw.githubusercontent.com/noredlace/OrgoNati/master/orgonati%20layout.png)
 
 
 
 Schematic was done in a 9 x 8 layout. This is due to the 66 keys on the OrgoNati. Limitations of the ProMicro's PinOuts means the tracing is messy due to the odd path of each switch/diode. <br />
-![alt text](https://raw.githubusercontent.com/noredlace/FiftyOrtho1800/master/schematic/fifty%20ortho%20image.png)
+![alt text](https://raw.githubusercontent.com/noredlace/OrgoNati/master/orgonati%20schematic.jpg)
 
 The glory of ugly tracing can be seen
-![alt text](https://raw.githubusercontent.com/noredlace/FiftyOrtho1800/master/pcb/fifty%20ortho%20bottom.png)
+![alt text](https://raw.githubusercontent.com/noredlace/OrgoNati/master/orgonati%20pcb.png)

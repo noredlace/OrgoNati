@@ -1,4 +1,4 @@
-update=9/5/2018 5:58:07 PM
+update=9/6/2018 1:02:23 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,13 @@ LibName33=C:/Users/EJ/Documents/KiCad/libraries/kicad_lib_tmk-master/keyboard_pa
 LibName34=C:/Users/EJ/Documents/KiCad/libraries/keebio-components-master/promicro
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=../orgonatischematic
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

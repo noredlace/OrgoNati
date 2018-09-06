@@ -1,4 +1,4 @@
-update=9/6/2018 1:02:23 AM
+update=9/6/2018 1:17:10 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,8 +61,6 @@ LibName31=contrib
 LibName32=valves
 LibName33=C:/Users/EJ/Documents/KiCad/libraries/kicad_lib_tmk-master/keyboard_parts
 LibName34=C:/Users/EJ/Documents/KiCad/libraries/keebio-components-master/promicro
-[general]
-version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -73,3 +71,5 @@ NetFmtName=Pcbnew
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[general]
+version=1

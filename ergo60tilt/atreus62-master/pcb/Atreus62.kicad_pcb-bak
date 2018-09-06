@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 13.145017 41.201456 283.393012 154.230442)
     (thickness 1.6)
-    (drawings 1260)
+    (drawings 1261)
     (tracks 924)
     (zones 0)
     (modules 126)
@@ -5389,6 +5389,9 @@
       (net 84 "Net-(SW-RST1-Pad2)"))
   )
 
+  (gr_text "Revision 2016-11-26" (at 212.4 145.65 12) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (gr_text https://github.com/profet23/atreus62 (at 95.49 43.48) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
